@@ -80,7 +80,4 @@ In terms of optimisations, only the biggest wins have been implemented. For inst
 
 On the client-side, only the characters that are in view are drawn to screen. It would be nice to improve things so that clients only know about the characters directly around them, but I've spent enough time on this already, so that can be for another day (never).
 
-Sponsor me?
------------
 
-If you found this repository helpful, [please consider sponsoring me on Github Sponsors](https://github.com/sponsors/g105b). It would mean so much to me!
